@@ -6958,7 +6958,9 @@ input[type=color] {
   position: relative;
   z-index: 2;
 }
-
+.tp-feature-2__item{
+  height: 100%;
+}
 .tp-feature-2__section .row [class*=col-]:first-child .tp-feature-2__item {
   border-radius: 10px 0 0 10px;
 }
